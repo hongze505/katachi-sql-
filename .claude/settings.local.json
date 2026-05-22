@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:\\\\Users\\\\User\\\\katachi\" && wc -l wwwroot/css/kt-index.css wwwroot/css/nutrition.css wwwroot/css/Program.css wwwroot/css/login.css wwwroot/css/layout.css)",
+      "Read(//c/Users/User/katachi/**)",
+      "Bash(cd \"C:\\\\Users\\\\User\\\\katachi\" && grep -n \"@media\" wwwroot/css/kt-index.css wwwroot/css/nutrition.css wwwroot/css/Program.css wwwroot/css/login.css wwwroot/css/layout.css)"
+    ]
+  }
+}
